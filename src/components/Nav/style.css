@@ -1,0 +1,10 @@
+.navList {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: right;
+  height: 60px;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
